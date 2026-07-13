@@ -1,9 +1,42 @@
 # 💫 About Me:
-David Alvin Misango<br><br>🔭 I'm currently working on:<br>- An Autonomous Inventory Management Bot Project using the Robot Operating System (ROS)<br><br>👯 I'm looking to collaborate on:<br>- Embedded Systems development projects<br>- Robotics applications<br><br>🤝 I'm looking for help with:<br>- Advanced ROS implementations<br>- Integrating machine learning into embedded systems<br><br>🌱 I'm currently learning:<br>- Embedded Kernel Development with Yocto Project<br>- Real-Time Operating Systems (RTOS) like RT-Linux<br>- Digital Signal Processing (DSP)<br><br>💬 Ask me about:<br>- Mechatronic Engineering<br>- Embedded Systems<br>- Robotics fundamentals<br><br>Skills<br>- C/C++ Programming<br>- Python Programming<br>- Electronic Product Design using KiCAD<br>- Git version control<br>- Robot Operating System (ROS)<br>- Embedded Systems Development<br>- Embedded Linux Development in Yocto Project<br>- Realtime Operating Systems: FreeRTOs,RTLinux<br><br>About Me<br>I'm a final year Mechatronic Engineering student at Dedan Kimathi University of Technology. Passionate about Embedded Systems and Robotics, I'm always eager to tackle new challenges in these fields.<br>
+**David Alvin Misango**<br>
+*Embedded Systems Engineer*<br><br>
 
+🔭 **Projects:**<br>
+- Autonomous Inventory Management AGV<br>
+- Bio-Acoustic Monitoring System<br>
+- Mixed Signal Board Design<br><br>
+
+👯 **I'm looking to collaborate on:**<br>
+- Embedded Systems Development<br>
+- Robotics Applications<br><br>
+
+🌱 **I'm currently learning:**<br>
+- Embedded OS Development (Linux)<br>
+- Embedded Edge ML<br>
+- Advanced PCB hardware design<br>
+- Embedded System Cryptography and Encryption<br>
+- Metatemplate Programming for embedded development<br><br>
+
+💬 **Ask me about:**<br>
+- Mechatronic Engineering<br>
+- Embedded Systems<br>
+- Robotics fundamentals<br><br>
+
+🛠 **Skills:**<br>
+- C/C++ Programming<br>
+- PCB Design in Altium & KiCAD<br>
+- PCB Signal & Power Integrity Analysis in Siemens HyperLynx and ANSYS SIWAVE<br>
+- Git version control<br>
+- Robot Operating System (ROS)<br>
+- Embedded Systems Development<br>
+- Embedded Linux Development in Yocto Project<br>
+- Realtime Operating Systems: FreeRTOS<br>
+- Electronic Hardware debugging & Troubleshooting<br><br>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ingaiza&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ingaiza&theme=radical&hide_border=false)<br/>
